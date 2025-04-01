@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "User/add-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userInfo",
+        "Type": "web_api_labclass_4_mar_25.DTOs.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "User/delete-user",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "User/get-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[web_api_labclass_4_mar_25.Entities.User, web-api-labclass-4-mar-25, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.UserController",
+    "Method": "UpdateUsername",
+    "RelativePath": "User/update-username",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currentUserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newUsername",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

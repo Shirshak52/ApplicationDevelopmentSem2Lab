@@ -1,0 +1,6 @@
+@web_api_labclass_4_mar_25_HostAddress = http://localhost:5188
+
+GET {{web_api_labclass_4_mar_25_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
