@@ -3,7 +3,7 @@ using web_api_labclass_4_mar_25.Entities;
 
 namespace web_api_labclass_4_mar_25.Repositories
 {
-    public class UserRepository
+    public class UserRepository : IUserRepository
     {
         private ApplicationDbContext _context;
 

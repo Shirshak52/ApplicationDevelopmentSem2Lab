@@ -3,9 +3,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace web_api_labclass_4_mar_25.Entities
 {
-    [Index(nameof(Email), IsUnique=true)]
-    [Index(nameof(Username), IsUnique= true)]
-    public class User
+    [Index(nameof(Email), IsUnique = true)]
+    [Index(nameof(Phone), IsUnique = true)]
+    public class Company
     {
         [Key]
         public int Id { get; set; }
@@ -21,6 +21,8 @@ namespace web_api_labclass_4_mar_25.Entities
         public string Password { get; set; }
 
         [Required]
-        public string Username { get; set; }
+        public string Phone { get; set; }
+
+        public ICollection<Banner> Banners { get; set; }
     }
 }

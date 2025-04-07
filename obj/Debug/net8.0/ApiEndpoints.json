@@ -1,5 +1,151 @@
 [
   {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.BannerController",
+    "Method": "AddBanner",
+    "RelativePath": "Banner/add-banner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bannerInfo",
+        "Type": "web_api_labclass_4_mar_25.DTOs.BannerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.BannerController",
+    "Method": "DeleteBanner",
+    "RelativePath": "Banner/delete-banner",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.BannerController",
+    "Method": "GetBanners",
+    "RelativePath": "Banner/get-banners",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[web_api_labclass_4_mar_25.Entities.Banner, web-api-labclass-4-mar-25, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.BannerController",
+    "Method": "UpdateBannerTitle",
+    "RelativePath": "Banner/update-banner-title",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currentTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.CompanyController",
+    "Method": "AddCompany",
+    "RelativePath": "Company/add-company",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyInfo",
+        "Type": "web_api_labclass_4_mar_25.DTOs.CompanyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.CompanyController",
+    "Method": "DeleteCompany",
+    "RelativePath": "Company/delete-company",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.CompanyController",
+    "Method": "GetCompanies",
+    "RelativePath": "Company/get-companies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[web_api_labclass_4_mar_25.Entities.Company, web-api-labclass-4-mar-25, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "web_api_labclass_4_mar_25.Controllers.CompanyController",
+    "Method": "UpdateCompanyName",
+    "RelativePath": "Company/update-company-name",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currentName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "web_api_labclass_4_mar_25.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "User/add-user",

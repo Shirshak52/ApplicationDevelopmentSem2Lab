@@ -5,11 +5,11 @@ using web_api_labclass_4_mar_25.Repositories;
 
 namespace web_api_labclass_4_mar_25.Services
 {
-    public class UserService
+    public class UserService : IUserService
     {
-        private UserRepository _userRepository;
+        private IUserRepository _userRepository;
 
-        public UserService(UserRepository userRepository)
+        public UserService(IUserRepository userRepository)
         {
             _userRepository = userRepository;
         }

@@ -11,5 +11,8 @@ namespace web_api_labclass_4_mar_25
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Company> Companies { get; set; }
+        public DbSet<Banner> Banner { get; set; }
+
     }
 }

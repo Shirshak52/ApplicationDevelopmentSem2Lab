@@ -9,8 +9,8 @@ namespace web_api_labclass_4_mar_25.Controllers
     [Route("[controller]")]
     public class UserController : ControllerBase
     {
-        private UserService _userService;
-        public UserController(UserService userService)
+        private IUserService _userService;
+        public UserController(IUserService userService)
         {
             _userService = userService;
         }

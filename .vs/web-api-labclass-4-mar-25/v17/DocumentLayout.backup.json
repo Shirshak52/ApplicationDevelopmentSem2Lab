@@ -3,44 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\bannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\bannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\dtos\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:dtos\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\ibannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\ibannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\ibannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\ibannerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:dtos\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\migrations\\20250407142952_deleted tables manually, remigrating all tables i.e. user, company, banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:migrations\\20250407142952_deleted tables manually, remigrating all tables i.e. user, company, banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\web-api-labclass-4-mar-25.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:web-api-labclass-4-mar-25.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|c:\\users\\acer\\source\\repos\\web-api-labclass-4-mar-25\\migrations\\20250318042046_create_user_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05715ECC-94E8-4BC7-996C-6CE27B13565B}|web-api-labclass-4-mar-25.csproj|solutionrelative:migrations\\20250318042046_create_user_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +122,319 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\BannerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BannerRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\BannerRepository.cs",
+              "RelativeToolTip": "Repositories\\BannerRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:32:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\Banner.cs",
+              "RelativeDocumentMoniker": "Entities\\Banner.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\Banner.cs",
+              "RelativeToolTip": "Entities\\Banner.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:29:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:06:09.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:59:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BannerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\BannerDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BannerDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\BannerDTO.cs",
+              "RelativeToolTip": "DTOs\\BannerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:31:35.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:42:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\Company.cs",
+              "RelativeToolTip": "Entities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:34:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:51:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BannerService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\BannerService.cs",
+              "RelativeDocumentMoniker": "Services\\BannerService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\BannerService.cs",
+              "RelativeToolTip": "Services\\BannerService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:38:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:20:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "Services\\ICompanyService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\ICompanyService.cs",
+              "RelativeToolTip": "Services\\ICompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:04:51.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BannerController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "Controllers\\BannerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:46:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBannerService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\IBannerService.cs",
+              "RelativeDocumentMoniker": "Services\\IBannerService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\IBannerService.cs",
+              "RelativeToolTip": "Services\\IBannerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:38:22.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Services\\CompanyService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:03:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBannerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\IBannerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBannerRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\IBannerRepository.cs",
+              "RelativeToolTip": "Repositories\\IBannerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:32:43.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250407142952_Deleted tables manually, remigrating all tables i.e. User, Company, Banner.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Migrations\\20250407142952_Deleted tables manually, remigrating all tables i.e. User, Company, Banner.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250407142952_Deleted tables manually, remigrating all tables i.e. User, Company, Banner.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Migrations\\20250407142952_Deleted tables manually, remigrating all tables i.e. User, Company, Banner.cs",
+              "RelativeToolTip": "Migrations\\20250407142952_Deleted tables manually, remigrating all tables i.e. User, Company, Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:29:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\CompanyDTO.cs",
+              "RelativeToolTip": "DTOs\\CompanyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:40:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:48:39.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:32:02.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:40:52.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\ICompanyRepository.cs",
+              "RelativeToolTip": "Repositories\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:51:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwCAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T04:04:22.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:40:26.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:52:02.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "web-api-labclass-4-mar-25.csproj",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\web-api-labclass-4-mar-25.csproj",
               "RelativeDocumentMoniker": "web-api-labclass-4-mar-25.csproj",
@@ -83,83 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:32:02.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T03:52:02.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:42:52.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T03:48:39.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T04:06:09.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:59:55.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -168,18 +455,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-18T04:10:04.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250318042046_create_user_table.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Migrations\\20250318042046_create_user_table.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250318042046_create_user_table.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\web-api-labclass-4-mar-25\\Migrations\\20250318042046_create_user_table.cs",
-              "RelativeToolTip": "Migrations\\20250318042046_create_user_table.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T04:20:46.865Z"
             }
           ]
         }
